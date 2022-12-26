@@ -16,8 +16,6 @@ steps:
         "gcr.io/$PROJECT_ID/${_SERVICE_NAME}:1",
         "--region",
         "asia-southeast1",
-        "--port",
-        "8090",
         "--platform",
         "managed",
         "--allow-unauthenticated",
