@@ -17,7 +17,7 @@ steps:
         "--region",
         "asia-southeast1",
         "--port",
-        "8080",
+        "8090",
         "--platform",
         "managed",
         "--allow-unauthenticated",
